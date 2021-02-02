@@ -1,3 +1,1 @@
-docker build \
-    -f Dockerfile \
-    -t ishugaepov/mlbd .
+docker build -f Dockerfile -t ishugaepov/mldb .
